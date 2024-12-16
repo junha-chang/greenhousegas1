@@ -728,14 +728,12 @@
   overflow: hidden;
   object-fit: cover;
 }
-.main {
-  width: 100vw;
-  height: auto;
+.main-1 {
+  width: 1296px;
+  height: 852px;
+  position: absolute;
   left: 305px;
   top: 1199px;
-  position: absolute;
-  overflow: hidden;
-  object-fit: cover;
 }
 .heading-4-top-quality-healthy {
   color: #fcfcfc;
