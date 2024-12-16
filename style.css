@@ -728,6 +728,15 @@
   overflow: hidden;
   object-fit: cover;
 }
+.main {
+  width: 100vw;
+  height: auto;
+  left: 305px;
+  top: 1199px;
+  position: absolute;
+  overflow: hidden;
+  object-fit: cover;
+}
 .heading-4-top-quality-healthy {
   color: #fcfcfc;
   text-align: left;
